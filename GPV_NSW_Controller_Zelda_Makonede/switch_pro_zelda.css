@@ -183,8 +183,8 @@ the CSS inline. */
     top: 0px;
 }
 .custom .stick.right {
-    right: 0px;
-    bottom: 0px;
+    left: 221.5px;
+    top: 75.5px;
 }
 /* D-pad positioning and sizing */
 .custom .dpad {
