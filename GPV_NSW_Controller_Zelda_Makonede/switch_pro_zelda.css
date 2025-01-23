@@ -141,12 +141,12 @@ NOTE: Player ordering starts at 0, so p0 = Player 1 */
     background-position-y: -40px;
 }
 .custom .a {
-    background-position: -42px 0px;
+    background-position: 0px 0px;
     left: 85px;
     top: 38px;
 }
 .custom .b {
-    background-position: 0px 0px;
+    background-position: -42px 0px;
     left: 42px;
     top: 74px;
 }
