@@ -173,18 +173,19 @@ the CSS inline. */
     background: url(https://i.imgur.com/N4Xl1d3.png);
     width: 77px;
     height: 77px;
+    background-repeat:no-repeat;
 }
 .custom .stick.pressed {
     background-position-x: -77px;
 }
-.custom .stick.left {
+/*.custom .stick.left {
     left: 0px;
     top: 0px;
 }
 .custom .stick.right {
     right: 0px;
     bottom: 0px;
-}
+}*/
 /* D-pad positioning and sizing */
 .custom .dpad {
     position: absolute;
