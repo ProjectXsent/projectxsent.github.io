@@ -134,18 +134,18 @@ NOTE: Player ordering starts at 0, so p0 = Player 1 */
     position: absolute;
     width: 42px;
     height: 40px;
-    background: url(https://i.imgur.com/CLa3u8C.png);
+    background: url(https://i.imgur.com/scZrJci.png);
 }
 .custom .button.pressed {
     margin-top: 4px;
     background-position-y: -40px;
 }
-.custom .b {
+.custom .a {
     background-position: 0px 0px;
     left: 85px;
     top: 38px;
 }
-.custom .a {
+.custom .b {
     background-position: -42px 0px;
     left: 42px;
     top: 74px;
