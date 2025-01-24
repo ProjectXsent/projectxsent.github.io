@@ -134,7 +134,9 @@ NOTE: Player ordering starts at 0, so p0 = Player 1 */
     position: absolute;
     width: 42px;
     height: 40px;
-    background: url(https://i.imgur.com/CLa3u8C.png);
+    background: url(https://i.imgur.com/scZrJci.png);
+    /*original ABXY link*/
+    /*background: url(https://i.imgur.com/CLa3u8C.png);*/
 }
 .custom .button.pressed {
     margin-top: 4px;
