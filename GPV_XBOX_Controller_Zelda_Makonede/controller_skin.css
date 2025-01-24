@@ -142,20 +142,20 @@ NOTE: Player ordering starts at 0, so p0 = Player 1 */
 }
 .custom .a {
     background-position: 0px 0px;
-    left: 85px;
-    top: 38px;
-}
-.custom .b {
-    background-position: -42px 0px;
     left: 42px;
     top: 74px;
 }
-.custom .y {
-    background-position: -126px 0px;
-    top: 37px;
+.custom .b {
+    background-position: -42px 0px;
+    left: 85px;
+    top: 38px;
 }
 .custom .x {
     background-position: -84px 0px;
+    top: 37px;
+}
+.custom .y {
+    background-position: -126px 0px;
     left: 42px;
 }
 /* Analog sticks follow the same principles as the triggers in terms of positioning.
